@@ -310,7 +310,7 @@ GEM
       activejob (= 5.1.6)
       activemodel (= 5.1.6)
       activerecord (= 5.1.6)
-      activesupport (= 5.1.6)
+      activesupport (>= 5.2.4.3)
       bundler (>= 1.3.0)
       railties (= 5.1.6)
       sprockets-rails (>= 2.0.0)
